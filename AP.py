@@ -1,0 +1,5 @@
+A=int(input(""))
+B=int(input(""))
+C=int(input(""))
+S=int(C*((2*A)+((C-1)*B))/2)
+print(S)
